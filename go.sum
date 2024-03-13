@@ -307,10 +307,6 @@ github.com/cycloidio/terraform-provider-aws v1.60.1-0.20220513132327-e2dbdf90e53
 github.com/cycloidio/terraform-provider-aws v1.60.1-0.20220513132327-e2dbdf90e533/go.mod h1:GMgtgRkfOGOqGyAN7G4oBqD/iFvJOwvPeejv7JNcLpc=
 github.com/cycloidio/terraform-provider-azurerm v1.44.1-0.20220513132617-918497152827 h1:1T2XtaU/ht6ojv8vXD1azNNAJMJWvo7XujnqRq869sY=
 github.com/cycloidio/terraform-provider-azurerm v1.44.1-0.20220513132617-918497152827/go.mod h1:yAWZMAEgx+bUWhfOVBiymy/oxIbobZslFE8I0kjaeKE=
-github.com/cycloidio/tfdocs v0.0.0-20210903075122-31a804b31daf h1:bTxGdxb8uk0orMw726niNd3EYmnwuygtZZidDXZura8=
-github.com/cycloidio/tfdocs v0.0.0-20210903075122-31a804b31daf/go.mod h1:4zRiWOHuVkhb2vatajIFxV5g/AC4W7Zb/0pMF1G0yyA=
-github.com/cycloidio/tfdocs v0.0.0-20220809093344-d999d1c2069e h1:Dc9l5uHbyMzClz0jchr8W0oC6JDQgoRgPDQ/SGAlpIA=
-github.com/cycloidio/tfdocs v0.0.0-20220809093344-d999d1c2069e/go.mod h1:4zRiWOHuVkhb2vatajIFxV5g/AC4W7Zb/0pMF1G0yyA=
 github.com/cycloidio/tfdocs v0.0.0-20220809201117-e73e2388cfa8 h1:wlW3Y1iIdXzi5GQDrzXoVaoKBPi15d+qmJqPCHbs97E=
 github.com/cycloidio/tfdocs v0.0.0-20220809201117-e73e2388cfa8/go.mod h1:4zRiWOHuVkhb2vatajIFxV5g/AC4W7Zb/0pMF1G0yyA=
 github.com/daixiang0/gci v0.2.8/go.mod h1:+4dZ7TISfSmqfAGv59ePaHfNzgGtIkHAhhdKggP1JAc=
@@ -1761,8 +1757,9 @@ google.golang.org/protobuf v1.25.0/go.mod h1:9JNX74DMeImyA3h4bdi1ymwjUzf21/xIlba
 google.golang.org/protobuf v1.26.0-rc.1/go.mod h1:jlhhOSvTdKEhbULTjvd4ARK9grFBp09yW+WbY/TyQbw=
 google.golang.org/protobuf v1.26.0/go.mod h1:9q0QmTI4eRPtz6boOQmLYwt+qCgq0jsYwAQnmE0givc=
 google.golang.org/protobuf v1.27.1/go.mod h1:9q0QmTI4eRPtz6boOQmLYwt+qCgq0jsYwAQnmE0givc=
-google.golang.org/protobuf v1.28.0 h1:w43yiav+6bVFTBQFZX0r7ipe9JQ1QsbMgHwbBziscLw=
 google.golang.org/protobuf v1.28.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
+google.golang.org/protobuf v1.33.0 h1:uNO2rsAINq/JlFpSdYEKIZ0uKD/R9cpdv0T+yoGwGmI=
+google.golang.org/protobuf v1.33.0/go.mod h1:c6P6GXX6sHbq/GpV6MGZEdwhWPcYBgnhAHhKbcUYpos=
 gopkg.in/alecthomas/kingpin.v2 v2.2.6/go.mod h1:FMv+mEhP44yOT+4EoQTLFTRgOQ1FBLkstjWtayDeSgw=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
